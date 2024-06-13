@@ -1,7 +1,10 @@
+Project- Credit Card Report
+
 Objective
 Develop a dynamic weekly credit card dashboard that delivers real-time insights into key performance metrics and trends, empowering stakeholders to effectively monitor and analyze credit card operations.
 
 Procedure
+
 Step 1: Importing Data from SQL Database
 •	Imported transaction and customer data from SQL database into the working environment.
 •	Connected to the SQL database, queried necessary tables, and exported data into CSV format for further processing.
